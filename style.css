@@ -79,11 +79,18 @@ footer {
     div img {
         width:250px
     }
+    body {
+        
+    }
     header {
         flex-direction: column;
     }
     a {
         display: block;
+        text-align: center;
+        font-size: 16px;
+    }
+    footer {
         text-align: center;
     }
  
